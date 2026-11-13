@@ -1,0 +1,19 @@
+# This is a selected-source showcase, not the original project.
+# Prevent accidental addition of full application directories.
+/src/
+/public/
+/tests/
+/node_modules/
+/dist/
+/.vercel/
+.env
+.env.*
+!.env.example
+*.sql
+*.sql.gz
+*.tar
+*.tar.gz
+*.zip
+*.log
+Thumbs.db
+.DS_Store
